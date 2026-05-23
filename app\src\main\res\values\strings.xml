@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">App Lockdown</string>
-    <string name="accessibility_service_name">App Lockdown blocker</string>
-    <string name="accessibility_service_description">Detects blocked apps when they open and shows a blocking screen.</string>
-    <string name="device_admin_description">Allows App Lockdown to manage blocked packages when configured as device owner.</string>
-</resources>
